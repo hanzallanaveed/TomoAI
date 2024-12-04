@@ -50,7 +50,7 @@ In the `client` terminal, run the following commands:
    ```
 
 ### 6. Access the Application
-Once the above steps are completed, the Tomo AI application should be up and running. You can open your browser and go to the specified local URL to start using it.
+Once the above steps are completed, the Tomo AI application should be up and running. You can open your browser and go to the specified local URL to start using it. Open the website on [http://localhost:3000](http://localhost:3000).
 
 ---
 
